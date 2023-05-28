@@ -1,0 +1,7 @@
+/*set the root to make variables */
+
+:root {
+  --primary: #6F88FC;
+  --secondary: #45E3FF;
+  --tertiary: #fff;
+}
